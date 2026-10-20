@@ -1,4 +1,4 @@
-# Storage Estimator Program
+# Temperature converter
 ## Purpose
 A simple Python script designed to calculate temperature in farenheits
 
