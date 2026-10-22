@@ -1,8 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Storage Estimator - Main Version
 =======
 Storage Estimator - Feature Version
 >>>>>>> feature/title-change# Storage Estimator Program
+=======
+# Temperature converter
+>>>>>>> 1bb473d98a8ac35ed93471b1e96de3b9a5646122
 ## Purpose
 A simple Python script designed to calculate temperature in farenheits
 
