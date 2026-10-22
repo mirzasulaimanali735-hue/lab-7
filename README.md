@@ -1,4 +1,8 @@
-# Storage Estimator Program
+<<<<<<< HEAD
+Storage Estimator - Main Version
+=======
+Storage Estimator - Feature Version
+>>>>>>> feature/title-change# Storage Estimator Program
 ## Purpose
 A simple Python script designed to calculate temperature in farenheits
 
